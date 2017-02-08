@@ -1,4 +1,7 @@
 # UberTrak
+
+[Play store link](https://play.google.com/store/apps/details?id=ubertrak.shockleyco.com.ubertrak2)
+
 Adjustable-rate counter for tracking enemy ÜberCharge and Kritz. During a competitive match, just leave your device running and the app will reflect whether or not the enemy medic has Uber based on your call outs
 
 UberTrak V2 is the updated version with voice commands added. All phonetic recognition is handled on the device without any 3rd party services to eavesdrop on you. The only permission is storage for storing the phonetic library and application state!
