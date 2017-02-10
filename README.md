@@ -17,3 +17,10 @@ Commands
 Hi! This code was written years ago. I have recently reformatted it for continuation by other developers at their request, but there are plenty of 'noob mistakes' floating around in V2. I hope to come back to do a full refactor and port for iOS eventually, but for now I simply do not have the time while applying. I hope this shows the positive aspects of my love of software development and the community!
 
 [Direct link to most recent 'god class' main](https://github.com/ShockleyJE/UberTrak/blob/master/UberTrak%20V2/UberTrak/app/src/main/java/ubertrak/shockleyco/com/ubertrak/MainActivity.java)
+
+#Privacy updated
+On February 8th, 2017 I received [an automated email from the Google Play Team](http://imgur.com/KOcSzVs) stating that UberTrak violates the User Data policy regarding Personal and Sensitive Information.
+
+I should reiterate that this app produces zero traffic in and outbound the device. Whatever is picked up by your microphone lives and dies in memory, having never even been given the chance to make it out in the world.
+
+I should reiterate that was the privacy policy and not a metaphor for life.
